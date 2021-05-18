@@ -1,0 +1,2 @@
+# RageUI
+RageUI, and a project specially created to replace the NativeUILua-Reloaded library. This library allows to create menus similar to the one of GTA:O, however this library is still young and has many problems.  The implementation of this open source project was done faster than expected in order to be able to count on the community to improve it and solve the concerns currently present on it. [See the tab].  This project would never have been possible without the trust [Frazzle] placed in me, so I wanted to thank him for trusting me to carry out this project.
